@@ -1,6 +1,6 @@
 **In this project I work on tables**
 
-**here are few steps of building page:**
+**here are few steps of building page and some of concepts that I learned through this project:**
 1-
 Screen readers announce HTML elements based on the document flow. We will eventually want the balance sheet to have a heading of "Balance Sheet" and a subheading of "AcmeWidgetCorp". However, this order does not make sense if announced by a screen reader.
  
